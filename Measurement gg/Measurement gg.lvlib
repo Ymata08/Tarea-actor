@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Amplitud Msg.lvclass" Type="LVClass" URL="../Measurement gg Messages/Amplitud Msg/Amplitud Msg.lvclass"/>
+		<Item Name="Exit Msg.lvclass" Type="LVClass" URL="../Measurement gg Messages/Exit Msg/Exit Msg.lvclass"/>
+		<Item Name="Frecuencia Msg.lvclass" Type="LVClass" URL="../Measurement gg Messages/Frecuencia Msg/Frecuencia Msg.lvclass"/>
+		<Item Name="Start Stop Msg.lvclass" Type="LVClass" URL="../Measurement gg Messages/Start Stop Msg/Start Stop Msg.lvclass"/>
 		<Item Name="Tipo de señal Msg.lvclass" Type="LVClass" URL="../Measurement gg Messages/Tipo de señal Msg/Tipo de señal Msg.lvclass"/>
 	</Item>
 	<Item Name="Measurement gg.lvclass" Type="LVClass" URL="../Measurement gg/Measurement gg.lvclass"/>
